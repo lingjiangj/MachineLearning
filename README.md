@@ -1,2 +1,2 @@
 # MachineLearning
-Problem sets answers for Machine Learning course by Andrew Ng (Stanford) from Coursera
+Problem sets answers using Matlab for Machine Learning course by Andrew Ng (Stanford) from Coursera.
